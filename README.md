@@ -32,7 +32,7 @@ Git Clone
 ```sh
 git clone https://github.com/yassirH9/ImageAdministrator_Angular-Sequelize
   ```
-El siguiente paso sera generar la base de datos con el archivo que se encuentra en la carpeta del repositorio 'db_import'.
+The next step will be to generate the database with the file located in the repository folder 'db_import'.
 <br>
 <br>
 Then open the 'backend' and 'frontend' folder with vs code and open an embedded terminal in each of those folders and run the following commands.
